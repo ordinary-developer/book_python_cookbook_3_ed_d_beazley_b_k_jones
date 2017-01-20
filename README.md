@@ -1,5 +1,5 @@
-What this project is for
-========================
+Project information
+===================
 
 This repository contains my files (my code snippets and my synopses about the main book's topics) 
 for the book **"Python cookbook"** *3-d edition* by **David Beazley** and **Brian K. Jones**.
@@ -7,15 +7,15 @@ for the book **"Python cookbook"** *3-d edition* by **David Beazley** and **Bria
 [here is the link to amazon](http://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377) 
 
 
-How to configure and install it 
-===============================
+Installation 
+============
 
 Simply copy (clone the repository) and see and read it.
 
 
 
-An example of how to use it or get it running
-=============================================
+Basic usage
+===========
 
 ``` 
 $ git clone https://gitlab.com/book_synopses_and_code_samples/python_cookbook_3_ed_d_beazley_b_k_jones.git
@@ -28,15 +28,15 @@ $ git clone https://github.com/book_python_cookbook_3_ed_d_beazley_b_k_jones.git
 ```
 
  
-The license that the project is offered under
-=============================================
+License
+=======
 
 This project is offered under the MIT license.
 
 
 
-How to contribute to it 
-=======================
+Contributing
+============
 
 This project doesn't need to be contributed.
 
